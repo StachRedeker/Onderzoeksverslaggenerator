@@ -28,4 +28,10 @@ Hoe cool zou het zijn als een een programma was dat automatisch jouw onderzoek i
 
 Juist. Dat dacht ik dus ook.
 
-Daarom bouwde ik de Onderzoeksverslaggenerator: een website met een chatbot die verkregen informatie meteen in een verslagtemplate (pdf) zet. Simpel, gratis en gemakkelijk. Het gegenereerde verslag wordt automatisch naar het e-mailadres van de gebruiker gestuurd. De manier 
+Daarom bouwde ik de Onderzoeksverslaggenerator: een website met een chatbot die verkregen informatie meteen in een verslagtemplate (pdf) zet. Simpel, gratis en gemakkelijk. Het gegenereerde verslag wordt automatisch naar het e-mailadres van de gebruiker gestuurd. De manier waarop de bot gegevens in een template verwerkt, is direct overgenomen van een natuurkundeverslag dat ik schreef in 4 vwo. Dat verslag leverde een 8,3 op.
+
+### Hoe te gebruiken
+Ondanks dat de tool nooit officieel gelanceerd is, kun je hem wel gebruiken. De website vind je, zolang ik besluit deze te hosten, [hier](https://verslag.stachredeker.nl/). Druk op de grote blauwe knop om direct te starten met het maken van een verslag.
+
+### Hoe het werkt & waarom het nooit is gelanceerd
+
