@@ -10,7 +10,7 @@ De Onderzoeksverslaggenerator is gebouwd in 2019, maar nooit officieel gelanceer
   - Waarom typen als je ook kunt praten? Vertel je verhaal en ik maak er een verslag van!
 - **BiNaSk-eisen**
   - Het verslag voldoet aan alle BiNaSk-verslageisen. Je kunt de generator dus gebruiken voor natuurkunde, scheikunde en biologie!
-- **Gratis!*
+- **Gratis!**
   - Perfect voor de gierige student: voor dit tooltje betaal je helemaal niets!
 - **Makkelijk aanpasbaar**
   - Ik stuur je via e-mail een PDF. Deze kun je gemakkelijk aan jouw wensen aanpassen!
@@ -23,3 +23,9 @@ Het viel mij op dat - vooral in de onderbouw - verslagen voor biologie, natuurku
 - [Rubrics.docx](https://github.com/StachRedeker/Onderzoeksverslaggenerator/blob/main/Rubrics.docx)
 
 Als je je daar als scholier niet aan houdt, krijg je automatisch aftrek. Scholieren besteden dus vaak teveel aandacht aan het perfect volgen van een schema. En die verloren tijd had natuurlijk veel beter gebruikt kunnen worden voor daadwerkelijk onderzoek.
+
+Hoe cool zou het zijn als een een programma was dat automatisch jouw onderzoek in de juiste template knalde?
+
+Juist. Dat dacht ik dus ook.
+
+Daarom bouwde ik de Onderzoeksverslaggenerator: een website met een chatbot die verkregen informatie meteen in een verslagtemplate (pdf) zet. Simpel, gratis en gemakkelijk. Het gegenereerde verslag wordt automatisch naar het e-mailadres van de gebruiker gestuurd. De manier 
