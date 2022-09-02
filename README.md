@@ -1,4 +1,4 @@
-# Onderzoeksverslaggenerator (nooit gelanceerd)
+# Onderzoeksverslaggenerator (nooit gelanceerd, nog steeds in beta)
 > Met de onderzoeksverslaggenerator maak je binnen 10 minuten een professioneel verslag voor biologie, scheikunde of natuurkunde.
 
 ![](/img/bg-pattern.png)
@@ -32,6 +32,3 @@ Daarom bouwde ik de Onderzoeksverslaggenerator: een website met een chatbot die 
 
 ### Hoe te gebruiken
 Ondanks dat de tool nooit officieel gelanceerd is, kun je hem wel gebruiken. De website vind je, zolang ik besluit deze te hosten, [hier](https://vault.stachredeker.nl/verslag/). Druk op de grote blauwe knop om direct te starten met het maken van een verslag.
-
-### Hoe het werkt & waarom het nooit is gelanceerd
-
