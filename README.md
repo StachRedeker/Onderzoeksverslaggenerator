@@ -3,7 +3,7 @@
 
 ![](/img/bg-pattern.png)
 
-De Onderzoeksverslaggenerator is gebouwd in 2019, maar nooit officieel gelanceerd. Verderop in deze `README` leg ik uit waarom niet.
+De Onderzoeksverslaggenerator is gebouwd in 2019, maar nooit officieel gelanceerd.
 
 ### Kernpunten
 - **Spraakherkenning**
